@@ -1,4 +1,9 @@
-### Hi there 👋
+### :star: **About Me**:
+- 🔭 I’m currently working on Regulate
+
+- 🌱 I’m currently learning Java, Kotlin
+
+- 📫 Reach me on Discord: ``Mikeyy#5417``
 
 <!--
 **Mikie/Mikie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
